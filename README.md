@@ -6,28 +6,28 @@ An intelligent AI-powered news platform that brings real-time AI developments to
 
 ## 🌟 Features
 
-### 📰 Real-Time AI News
+###  Real-Time AI News
 - **Live News Integration**: Fetches real AI news from NewsAPI
 - **AI-Powered Classification**: Uses Google Gemini LLM to categorize news by impact and topic
 - **Dynamic Content**: Always up-to-date with the latest AI developments
 
-### 📊 Interactive Surveys
+###  Interactive Surveys
 - **AI Impact Assessment**: Test your understanding of AI developments
 - **Real News Questions**: Surveys based on actual current events
 - **Community Insights**: Track community sentiment on AI topics
 
-### 📈 Analytics Dashboard
+###  Analytics Dashboard
 - **Performance Metrics**: View survey completion rates and accuracy scores
 - **Category Breakdown**: Analyze news by topic areas (Healthcare, Employment, Privacy, etc.)
 - **Data Visualization**: Interactive charts showing trends and insights
 - **Demographics**: Community participation statistics
 
-### 🎨 Modern UI/UX
+### Modern UI/UX
 - **Responsive Design**: Works seamlessly on desktop and mobile
 - **Dark/Light Themes**: Beautiful gradient backgrounds and modern styling
 - **Intuitive Navigation**: Clean, accessible interface with smooth transitions
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18 + TypeScript + Vite
 - **Styling**: Tailwind CSS + Shadcn/ui components
@@ -37,13 +37,13 @@ An intelligent AI-powered news platform that brings real-time AI developments to
 - **State Management**: React hooks with localStorage persistence
 - **Build Tool**: Vite with esbuild for fast development
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js 18+ and npm
 - NewsAPI account and API key
 - Google Gemini API key
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -74,7 +74,7 @@ An intelligent AI-powered news platform that brings real-time AI developments to
 
    The application will be available at `http://localhost:8081`
 
-## 🔧 API Configuration
+##  API Configuration
 
 ### NewsAPI Setup
 1. Visit [NewsAPI](https://newsapi.org/) and create a free account
@@ -86,7 +86,7 @@ An intelligent AI-powered news platform that brings real-time AI developments to
 2. Create a new API key
 3. Add it to your `.env` file as `NEXT_PUBLIC_GOOGLE_API_KEY`
 
-## 📖 Usage
+##  Usage
 
 ### For Users
 1. **Browse News**: Visit the News page to see AI developments classified by the AI
@@ -98,7 +98,7 @@ An intelligent AI-powered news platform that brings real-time AI developments to
 - **Build**: `npm run build` - Create production build
 - **Preview**: `npm run preview` - Preview production build locally
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 spark-community-news/
@@ -122,7 +122,7 @@ spark-community-news/
 └── package.json            # Dependencies and scripts
 ```
 
-## 🎯 Key Components
+##  Key Components
 
 ### News Classification System
 The application uses Google Gemini LLM to classify news articles into categories like:
@@ -145,7 +145,7 @@ The application uses Google Gemini LLM to classify news articles into categories
 - Provides demographic insights
 - Visualizes trends with interactive charts
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Here's how you can help:
 
@@ -163,11 +163,11 @@ We welcome contributions! Here's how you can help:
 - Update documentation as needed
 - Ensure responsive design works on all devices
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **NewsAPI** for providing real-time news data
 - **Google Gemini** for AI-powered content classification
@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for utility-first styling
 - **LangChain** for streamlined LLM integration
 
-## 📞 Support
+##  Support
 
 If you have questions or need help:
 
